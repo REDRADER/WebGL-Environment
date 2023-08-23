@@ -1,0 +1,22 @@
+This is cartoon medieval house Polygonal(1 objects)
+
+Models:
+
+House- Polygons: 2794
+Create in Blender 3d v 2.83.5
+
+File formats:
+
+- Blender 3d v 3.1.2
+- OBJ; MTL
+- Fbx
+- Gltf
+The preview images were rendered in Blender 3d (Cycles; 1024 Samples)
+
+Materials: 6
+
+Vertices: 3218; Polygons: 2794
+
+Created by Tykryk
+
+Thank you:)
